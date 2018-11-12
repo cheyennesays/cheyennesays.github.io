@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Jekyll Clean
 ============
+=======
+## Welcome to GitHub Pages
+>>>>>>> parent of 9a52421... Update README.md
 
 * Get it from [github](https://github.com/scotte/jekyll-clean).
 * See the [live demo](https://scotte.github.io/jekyll-clean).
